@@ -15,7 +15,7 @@ code .
 npm run dev
 ```
 
-[Demo](https://stupefied-brattain-949c26.netlify.app/)
+[Demo](https://sapper-tailwind.now.sh)
 
 ## Getting started
 
