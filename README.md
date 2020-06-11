@@ -4,7 +4,7 @@ The default [Sapper](https://github.com/sveltejs/sapper) template, available for
 
 ### This template runs Tailwind, Sapper, Purgecss and CSSnano
 
-(Demo)[https://stupefied-brattain-949c26.netlify.app/]
+[Demo](https://stupefied-brattain-949c26.netlify.app/)
 
 ## Getting started
 
