@@ -3,6 +3,15 @@
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
 
 ### This template runs Tailwind, Sapper, Purgecss and CSSnano
+#### Install
+```bash
+# for Rollup
+npx degit "LeandroPelegrini/sapper-tailwind" my-app
+cd my-app
+npm install
+--> code .<-- to launch the folder on VSCode (optional)
+npm run dev
+```
 
 [Demo](https://stupefied-brattain-949c26.netlify.app/)
 
