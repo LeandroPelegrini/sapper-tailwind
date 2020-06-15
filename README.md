@@ -3,6 +3,9 @@
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
 
 ### This template runs Tailwind, Sapper, Purgecss and CSSnano
+
+<img src="https://i.ibb.co/3CbbXfq/image.png" alt="lighthose full 100% test" width="300"/>
+
 #### Install
 ```bash
 # for Rollup
